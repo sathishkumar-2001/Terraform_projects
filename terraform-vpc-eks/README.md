@@ -31,4 +31,4 @@ Run `terraform plan` to see the configuration it creates when executed.
 
 ### Finally, Apply terraform configuation to create EKS cluster with VPC 
 
-`terraform apply`
+`terraform apply`(you can also add --auto-approve)
