@@ -1,3 +1,5 @@
+Run the following commands in the directory containing your main.tf file.
+
 # Initialize the Terraform configuration
 terraform init
 
